@@ -1,6 +1,6 @@
 # [Lu Kai Résumé Theme](https://github.com/Lu Kai/HugoBlox/theme-resume)
 
-[![Screenshot](./.github/photo.png)](https://hugoblox.com/templates/)
+[![Screenshot](./.github/photo.jpg)](https://hugoblox.com/templates/)
 
 The Hugo **Résumé Template** empowers you to easily create your job-winning online résumé, showcase your expertise, and share your social profiles to grow your audience.
 
